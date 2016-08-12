@@ -1,0 +1,29 @@
+lalithaprasad@gmail.com
+
+datastructures python supports : list,tuple,dictionary,string
+logical opertors: and , or ,not
+pep8 : python enhancement program - kind of python standard
+boolean : False,True (1st letter caps)
+
+tutorial : byte of python,python documentation,python module of the week
+
+
+----------------------------------------------------------------------------
+Day 2
+----------------------------------------------------------------------------
+
+tutorials : lisp 99 problems, projecteuler.net
+
+-------------------------------------------------------
+Day 3
+----------------------------------------
+
+
+day4
+-------------------------------------
+terminal color packages blessings,termcolor etc
+
+day5
+--------------------
+sphinx - phython documentation generator
+
